@@ -10,7 +10,7 @@ public class BFS {
         int nr = grid.length;
         int nc = grid[0].length;
         for(int r = 0; r < nr; r++){
-            for(int c = 0; c < nc; c++){
+            for (int c = 0; c < nc; c++) {
                 if(grid[r][c] == '1'){
                     numOfIslands++;
                     Queue<Integer> neighbors = new LinkedList<>();
