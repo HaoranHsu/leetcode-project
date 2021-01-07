@@ -19,6 +19,8 @@ public class JavaTest {
         System.out.println(ints[3]);
         List<ArrayList<Integer>> lists = new ArrayList<>(23);
         System.out.println(lists.get(0));
-
+        int a = 2;
+        boolean iss = a.equals
+        System.out.println();
     }
 }
