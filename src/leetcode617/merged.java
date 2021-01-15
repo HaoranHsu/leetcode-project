@@ -26,8 +26,8 @@ public class merged {
 
     public class TreeNode {
         int val;
-        Solution.TreeNode left;
-        Solution.TreeNode right;
+        TreeNode left;
+        TreeNode right;
 
         TreeNode(int x) {
             val = x;
