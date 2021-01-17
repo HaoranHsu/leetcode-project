@@ -10,6 +10,9 @@ package leetcode2;
  * @CreateDate: 2021/1/15 下午4:03
  * @Version: 1.0
  * 边界测试[0] + [0]
+ *
+ * 每个链表中的节点数在范围 [1, 100] 内
+ * 所以我的方法int会越界
  */
 public class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
