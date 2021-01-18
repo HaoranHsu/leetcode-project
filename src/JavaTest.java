@@ -15,11 +15,13 @@ import java.util.List;
  */
 public class JavaTest {
     public static void main(String[] args) {
-        Integer[] ints = new Integer[20];
-        System.out.println(ints[3]);
-        List<ArrayList<Integer>> lists = new ArrayList<>(23);
-        System.out.println(lists.get(0));
-        int a = 2;
-        System.out.println();
+//        Integer[] ints = new Integer[20];
+//        System.out.println(ints[3]);
+//        List<ArrayList<Integer>> lists = new ArrayList<>(23);
+//        System.out.println(lists.get(0));
+//        int a = 2;
+//        System.out.println();
+//        String sss = null;
+//        System.out.println(sss.length());//exception
     }
 }
