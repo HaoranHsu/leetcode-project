@@ -23,5 +23,9 @@ public class JavaTest {
 //        System.out.println();
 //        String sss = null;
 //        System.out.println(sss.length());//exception
+        int maxVal = Integer.MAX_VALUE + 1;
+        System.out.println(maxVal);
+        System.out.println(Integer.MAX_VALUE);
+        System.out.println(Integer.MIN_VALUE);
     }
 }
