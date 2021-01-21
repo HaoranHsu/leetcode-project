@@ -28,6 +28,7 @@ public class Solution {
             if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
             }
+            //确定一个数之后开始双指针。
             for (int j = i + 1; j < len - 1; j++) {
                 end = len - 1;
                 if (j > i + 1 && nums[j] == nums[j - 1]) {
