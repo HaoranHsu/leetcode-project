@@ -5,7 +5,7 @@ package leetcode461;
  *
  * @ProjectName: leetcode_project
  * @Package: leetcode461
- * @ClassName: Solution
+ * @ClassName: interview.Solution
  * @Author: Tristan Shu
  * @CreateDate: 2021/1/21 下午11:20
  * @Version: 1.0

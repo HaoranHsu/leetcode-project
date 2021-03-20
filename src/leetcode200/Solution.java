@@ -5,7 +5,7 @@ package leetcode200;
  *
  * @ProjectName: leetcode_project
  * @Package: leetcode200
- * @ClassName: Solution
+ * @ClassName: interview.Solution
  * @Author: Tristan Shu
  * @CreateDate: 2020/12/30 下午3:37
  * @Version: 1.0

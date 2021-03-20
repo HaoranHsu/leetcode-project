@@ -6,7 +6,7 @@ package leetcode206;
  *
  * @ProjectName: leetcode_project
  * @Package: leetcode206
- * @ClassName: Solution
+ * @ClassName: interview.Solution
  * @Author: Tristan Shu
  * @CreateDate: 2021/1/3 上午12:46
  * @Version: 1.0

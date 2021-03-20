@@ -5,7 +5,7 @@ package leetcode283;
  *
  * @ProjectName: leetcode_project
  * @Package: leetcode283
- * @ClassName: Solution
+ * @ClassName: interview.Solution
  * @Author: Tristan Shu
  * @CreateDate: 2021/1/8 下午5:28
  * @Version: 1.0

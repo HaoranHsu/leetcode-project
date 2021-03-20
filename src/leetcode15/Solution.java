@@ -9,7 +9,7 @@ import java.util.List;
  *
  * @ProjectName: leetcode_project
  * @Package: leetcode15
- * @ClassName: Solution
+ * @ClassName: interview.Solution
  * @Author: Tristan Shu
  * @CreateDate: 2021/1/20 下午8:32
  * @Version: 1.0

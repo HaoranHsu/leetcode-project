@@ -8,7 +8,7 @@ import java.util.List;
  *
  * @ProjectName: leetcode_project
  * @Package: leetcode300
- * @ClassName: Solution
+ * @ClassName: interview.Solution
  * @Author: Tristan Shu
  * @CreateDate: 2021/1/14 下午3:36
  * @Version: 1.0

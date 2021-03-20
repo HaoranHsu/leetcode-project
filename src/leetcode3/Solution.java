@@ -7,7 +7,7 @@ import java.util.HashSet;
  *
  * @ProjectName: leetcode_project
  * @Package: leetcode3
- * @ClassName: Solution
+ * @ClassName: interview.Solution
  * @Author: Tristan Shu
  * @CreateDate: 2021/1/17 下午10:28
  * @Version: 1.0

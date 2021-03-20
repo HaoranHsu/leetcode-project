@@ -11,7 +11,7 @@ import java.util.List;
  *
  * @ProjectName: leetcode_project
  * @Package: leetcode215
- * @ClassName: Solution
+ * @ClassName: interview.Solution
  * @Author: Tristan Shu
  * @CreateDate: 2021/1/12 下午9:25
  * @Version: 1.0

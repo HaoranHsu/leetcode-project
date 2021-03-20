@@ -9,7 +9,7 @@ import java.util.concurrent.ConcurrentHashMap;
  *
  * @ProjectName: leetcode_project
  * @Package: leetcode17
- * @ClassName: Solution
+ * @ClassName: interview.Solution
  * @Author: Tristan Shu
  * @CreateDate: 2021/1/21 下午8:47
  * @Version: 1.0

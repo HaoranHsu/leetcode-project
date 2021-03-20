@@ -5,7 +5,7 @@ package leetcode7;
  *
  * @ProjectName: leetcode_project
  * @Package: leetcode7
- * @ClassName: Solution
+ * @ClassName: interview.Solution
  * @Author: Tristan Shu
  * @CreateDate: 2021/1/20 下午7:28
  * @Version: 1.0
@@ -38,5 +38,4 @@ public class Solution {
             return -ans;
         }
     }
-}
 }
